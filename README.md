@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ramapati1226
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Full Stack
+- 🌱 I’m working as webbmethods developer
+- 🌱 Currently learning Data Science
 
 <!---
 ramapati1226/ramapati1226 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
